@@ -1,0 +1,3 @@
+[submodule "CurrencyApp"]
+	path = CurrencyApp
+	url = https://github.com/LukSiennicki/CurrencyApp.git
